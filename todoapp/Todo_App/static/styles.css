@@ -1,0 +1,16 @@
+h2 {
+    font:bold:italic;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+}
+li {
+    color: rgb(61, 12, 145);
+    font-size: 3em;
+}
+body {
+    background:  rgb(19, 203, 213);
+}
+
+form {
+    font-size: 10em;
+}
